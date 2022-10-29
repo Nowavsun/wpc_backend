@@ -136,8 +136,8 @@ def search(request):
 
     page = request.GET.get('page',1) #   #得到第几页
     limit = request.GET.get('limit',15)
-    all_count = outputs.objects.all()
-    paginator = Paginator(all_count, limit)
+    # all_count = outputs.objects.all()
+    paginator = Paginator(outputs, limit)
     page_1 = paginator.get_page(page)
     return Response(page_1)
 
