@@ -1,2 +1,4 @@
-wrec
-
+wrec/
+*__pycache__
+*.jpg
+*.png
