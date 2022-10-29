@@ -1,0 +1,13 @@
+
+.search_layout .search_background {
+    background: #fff;
+    padding: 24;
+    margin: 24px 0;
+}
+.search_layout{
+    padding: 0 50px;
+    margin-top: 64px;
+    overflow: 'initial';
+    
+}
+

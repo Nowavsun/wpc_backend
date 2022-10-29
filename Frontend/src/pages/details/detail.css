@@ -1,0 +1,30 @@
+
+.content-background {
+    background: rgb(0, 0, 0);
+    padding: 24;
+    height: 100vh;
+}
+
+
+.sider{
+    color: white;
+    margin-top: 60px;
+}
+.content-background .image{
+    position: fixed;
+    margin-top: 60px;
+    width: 70%;
+    height: 90%;
+    margin-left: 10%;
+    padding: 10px;
+
+}
+.tagsName{
+    color: white;
+    font-size: 40px;
+    margin-left: 15px;
+}
+.tags{
+    margin-left: 15px;
+    font-size: 20px;
+}

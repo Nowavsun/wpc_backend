@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.picture{
+    width: 250px;
+    height: 200px;
+}
+
+.picture-list{
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+}
+
+.picture-display{
+    flex:20%;
+    padding: 1rem;
+}

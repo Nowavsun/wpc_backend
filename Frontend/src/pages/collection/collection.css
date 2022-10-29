@@ -1,0 +1,15 @@
+
+.collection-layout .collection-layout-background {
+    background: #fff;
+    padding: 24;
+    margin: 24px 0;
+    min-height: 80vh;
+}
+.collection-layout{
+    padding: 0 50px;
+    margin-top: 64px;
+    overflow: 'initial';
+    
+    
+}
+
